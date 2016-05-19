@@ -6,3 +6,4 @@ ponto:
 	#ler_cartao
 	#descobre o funcionario
 	#faz entrada funcionário
+	#....
