@@ -1,3 +1,6 @@
+import ponto.py
+
+#comentario qlq
 main:
 	#print este e um supermercado
 
